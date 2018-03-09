@@ -49,9 +49,6 @@
     <Reference Include="NPOI.OpenXmlFormats, Version=2.3.0.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
       <HintPath>..\packages\NPOI.2.3.0\lib\net40\NPOI.OpenXmlFormats.dll</HintPath>
     </Reference>
-    <Reference Include="SoftFluent.Windows, Version=1.0.0.0, Culture=neutral, PublicKeyToken=02a67131d2a99c25, processorArchitecture=MSIL">
-      <HintPath>..\packages\SoftFluent.Windows.1.0.1.6\lib\net40\SoftFluent.Windows.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
