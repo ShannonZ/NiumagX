@@ -14,7 +14,7 @@
         <TextBlock x:Name="txtStatus" Text="Loading..." Grid.Row="0"/>
         <StackPanel Grid.Row="1" Orientation="Horizontal">
         <Button x:Name="exportXLSX"  Click="exportXLSX_Click" Grid.RowSpan="2">Export Excel</Button>
-         <Button x:Name="exportDOCX"  Click="exportDOCX_Click"  Grid.RowSpan="2">Export Excel</Button>
+         <Button x:Name="exportDOCX"  Click="exportDOCX_Click"  Grid.RowSpan="2">Export Word</Button>
         </StackPanel>
     </Grid>
 </Window>
